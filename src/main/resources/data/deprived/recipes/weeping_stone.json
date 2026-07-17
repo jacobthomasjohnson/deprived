@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:deepslate" },
+    { "item": "minecraft:echo_shard" },
+    { "item": "minecraft:spider_eye" }
+  ],
+  "result": { "item": "deprived:weeping_stone", "count": 2 }
+}

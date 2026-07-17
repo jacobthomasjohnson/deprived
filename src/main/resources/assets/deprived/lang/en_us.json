@@ -1,0 +1,12 @@
+{
+  "item.deprived.cursed_relic": "Cursed Relic",
+  "block.deprived.weeping_stone": "Weeping Stone",
+  "message.deprived.dread": "Dread: %s",
+  "message.deprived.relic": "Something heard you.",
+  "event.deprived.whisper": "You hear your name whispered from the dark.",
+  "event.deprived.cold": "The air turns deathly cold.",
+  "event.deprived.omen": "You are not alone.",
+  "category.deprived.developer": "Deprived Developer",
+  "key.deprived.trigger_event": "Trigger Random Deprivation Event",
+  "key.deprived.config_menu": "Open Deprived Control Room"
+}

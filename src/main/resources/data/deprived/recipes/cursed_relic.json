@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" B ", "SES", " O "],
+  "key": {
+    "B": { "item": "minecraft:bone" },
+    "S": { "item": "minecraft:soul_sand" },
+    "E": { "item": "minecraft:echo_shard" },
+    "O": { "item": "minecraft:crying_obsidian" }
+  },
+  "result": { "item": "deprived:cursed_relic" }
+}

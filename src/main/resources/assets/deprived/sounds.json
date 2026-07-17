@@ -1,0 +1,37 @@
+{
+  "haunted_footstep": { "sounds": [
+    {"name":"deprived:haunted_footstep/1","attenuation_distance":64}, {"name":"deprived:haunted_footstep/2","attenuation_distance":64},
+    {"name":"deprived:haunted_footstep/3","attenuation_distance":64}, {"name":"deprived:haunted_footstep/4","attenuation_distance":64},
+    {"name":"deprived:haunted_footstep/5","attenuation_distance":64}
+  ]},
+  "knock": { "sounds": [
+    {"name":"deprived:knock/1","attenuation_distance":64}, {"name":"deprived:knock/2","attenuation_distance":64}
+  ]},
+  "scratch": { "sounds": [
+    {"name":"deprived:scratch/1","attenuation_distance":56}, {"name":"deprived:scratch/2","attenuation_distance":56}
+  ]},
+  "breath": { "sounds": [
+    {"name":"deprived:breath/1","attenuation_distance":24}, {"name":"deprived:breath/2","attenuation_distance":32},
+    {"name":"deprived:breath/3","attenuation_distance":24}, {"name":"deprived:breath/4","attenuation_distance":40}
+  ]},
+  "whisper": { "sounds": [
+    {"name":"deprived:whisper/1","attenuation_distance":64}, {"name":"deprived:whisper/2","attenuation_distance":64},
+    {"name":"deprived:whisper/3","attenuation_distance":48}
+  ]},
+  "door": { "sounds": [{"name":"deprived:door/1","attenuation_distance":64}] },
+  "impact": { "sounds": [
+    {"name":"deprived:impact/1","attenuation_distance":48}, {"name":"deprived:impact/2","attenuation_distance":48}
+  ]},
+  "drone": { "sounds": [{"name":"deprived:drone/1","stream":true,"attenuation_distance":80}] },
+  "radio_signal": { "sounds": [{"name":"deprived:radio_signal/1","stream":true,"attenuation_distance":96}] },
+  "distant_singing": { "sounds": [
+    {"name":"deprived:distant_singing/1","stream":true,"attenuation_distance":96},
+    {"name":"deprived:distant_singing/2","stream":true,"attenuation_distance":96},
+    {"name":"deprived:distant_singing/3","stream":true,"attenuation_distance":96}
+  ]},
+  "rising_dread": { "sounds": [{"name":"deprived:rising_dread/1","stream":true,"attenuation_distance":96}] },
+  "deep_drone": { "sounds": [
+    {"name":"deprived:deep_drone/1","stream":true,"attenuation_distance":112},
+    {"name":"deprived:deep_drone/2","stream":true,"attenuation_distance":112}
+  ]}
+}
